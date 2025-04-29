@@ -4,11 +4,11 @@
     	{
         	"URL": "https://ibb.co/QFhPqkYS",
         	"Pos": "TopMid",
-        	"Persist": true,
+        	"Persist": false,
         	"FadeTime": 15
     	},
     	{
-        	"URL": "https://ibb.co/nsHd8Ldc",
+        	"URL": "https://ibb.co/HT164Lhj",
         	"Pos": "BottomLeft",
         	"Persist": true,
         	"FadeTime": 5
