@@ -1,0 +1,18 @@
+{
+	"Images": [
+
+    	{
+        	"URL": "https://ibb.co/QFhPqkYS",
+        	"Pos": "TopMid",
+        	"Persist": true,
+        	"FadeTime": 15
+    	},
+    	{
+        	"URL": "https://ibb.co/nsHd8Ldc",
+        	"Pos": "BottomLeft",
+        	"Persist": true,
+        	"FadeTime": 5
+    	}
+    	
+	]
+}
