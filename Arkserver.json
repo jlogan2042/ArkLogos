@@ -1,18 +1,61 @@
 {
 	"Images": [
-
+    	{
+        	"URL": "",
+        	"Pos": "TopLeft",
+        	"Persist": true,
+        	"FadeTime": 5
+    	},
     	{
         	"URL": "https://ibb.co/QFhPqkYS",
         	"Pos": "TopMid",
         	"Persist": false,
-        	"FadeTime": 15
+        	"FadeTime": 12
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "TopRight",
+        	"Persist": true,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "MidLeft",
+        	"Persist": true,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "MidMid",
+        	"Persist": true,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "MidRight",
+        	"Persist": true,
+        	"FadeTime": 5
     	},
     	{
         	"URL": "https://ibb.co/HT164Lhj",
         	"Pos": "BottomLeft",
         	"Persist": true,
         	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "BottomMid",
+		    	"Persist": true,
+        	"FadeTime": 5
+    	},
+    	{
+        	"URL": "",
+        	"Pos": "BottomRight",
+        	"Persist": true,
+        	"FadeTime": 5
     	}
-    	
 	]
 }
+
+
+
