@@ -1,13 +1,13 @@
 {
 	"Images": [
     	{
-        	"URL": "https://i.postimg.cc/KzrJvvbH/GW-CLapped.jpg",
+        	"URL": "https://i.postimg.cc/mcfqjrNt/Lucky-Banner-2.png",
         	"Pos": "TopMid",
         	"Persist": false,
-        	"FadeTime": 12
+        	"FadeTime": 20
     	},
     	{
-        	"URL": "https://i.postimg.cc/qR2WsLGz/Clover.png",
+        	"URL": "https://i.postimg.cc/XZfPz0Qx/Lucky-Logo-3.png",
         	"Pos": "BottomLeft",
         	"Persist": true,
         	"FadeTime": 5
